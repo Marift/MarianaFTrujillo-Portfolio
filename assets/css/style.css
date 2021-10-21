@@ -390,8 +390,8 @@ h6 {
 }
 @media (max-width: 780px) {
   .custom-navbar > .container {
-    padding-right: 0;
-    padding-left: 0;
+    padding-right: 3;
+    padding-left: 3;
   }
 }
 .custom-navbar .navbar-brand {
